@@ -1,5 +1,5 @@
 {
-    "name": "kaleu62/notafiscalsp",
+    "name": "dlhenke/notafiscalspv1",
     "description": "Integração com o WebService da Prefeitura de São Paulo para emissão de NFS e NTFS utilizando a API da nota do milhão",
     "type": "library",
     "license": "MIT",
@@ -28,7 +28,8 @@
             "email": "profkaio@outlook.com"
         },
         {
-            "name": "Marcelo Mendonça da Silva (marceloms163)"
+            "name": "Dlhenke",
+            "email": "dlhenke@ciclone.com.br"
         }
     ],
     "autoload": {
